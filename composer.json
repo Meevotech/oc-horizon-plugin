@@ -6,9 +6,7 @@
     "keywords": ["october", "octobercms", "horizon", "laravel-queues"],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0",
-        "ext-pcntl": "*",
-        "laravel/horizon": "3.4.7"
+        "laravel/horizon": "^3.4"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
