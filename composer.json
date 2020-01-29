@@ -8,7 +8,7 @@
     "require": {
         "php": ">=7.1.0",
         "ext-pcntl": "*",
-        "laravel/horizon": "^3.5"
+        "laravel/horizon": "3.4.7"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
