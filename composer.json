@@ -9,5 +9,7 @@
         "php": ">=7.1.0",
         "ext-pcntl": "*",
         "laravel/horizon": "^3.5"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
