@@ -6,7 +6,7 @@
     "keywords": ["october", "octobercms", "horizon", "laravel-queues"],
     "license": "MIT",
     "require": {
-        "laravel/horizon": "^3.4"
+        "laravel/horizon": "^4.3"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
